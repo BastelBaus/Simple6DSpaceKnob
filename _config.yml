@@ -1,6 +1,7 @@
 # Base configuration
 exclude: [".rvmrc", ".rbenv-version", "README.md", "changelog.md"]
-markdown: kramdown
+#markdown: kramdown
+markdown: GFM
 highlighter: rouge
 permalink: pretty
 
