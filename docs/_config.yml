@@ -1,14 +1,25 @@
 # Base configuration
 exclude: [".rvmrc", ".rbenv-version", "README.md", "changelog.md"]
-markdown: kramdown
+#markdown: kramdown
 highlighter: rouge
 permalink: pretty
 
+markdown: redcarpet
+redcarpet:
+  extensions:
+    - no_intra_emphasis
+    - fenced_code_blocks
+    - autolink
+    - tables
+    - strikethrough
+    - superscript
+    - with_to_data
+    
 collections:
   pages:
     output: true
     permalink: /:path/
 
 # Title
-name: Simple 6D Space Know (1)
+name: XX Simple 6D Space Know (1)
 
