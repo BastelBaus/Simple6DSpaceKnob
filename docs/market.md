@@ -17,7 +17,7 @@ This page gives an overview on different DIY and professional products on the ma
 | 2022 | Space Mushroom	| Shiura | [link](https://www.instructables.com/Space-Mushroom-Full-6-DOFs-Controller-for-CAD-Appl/) <br> [video](https://www.youtube.com/watch?v=Vs6Xte4gOxk) | ![Space Muishroom](images/Space_Mushroom.png) | finished w/ video |Stewart platform made from potentiometers (3x 2D analog joysticks) | 3D printed |
 |2013 | 6D (axsotic) | valentin heun | [link](http://valentinheun.com/portfolio/6d/) | ![6D axsotic](images/6D_axsotic.png) |  start of a startup which is no longer existing  | ? | 3D printed ? |
 
-	
+	https://reprapltd.com/an-open-source-spacemouse-for-cad-part-2/
 
 ## Full 6D Professional Products
 
