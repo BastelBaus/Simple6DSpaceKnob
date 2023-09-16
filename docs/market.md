@@ -27,4 +27,9 @@ This page gives an overview on different DIY and professional products on the ma
 ## Less than 6D DIY Projects
 
 - 
+-
 
+
+<br><hr/> 
+\>> Back to  **[main page](index.md)** <br>
+\>> Go to **[main repository](https://github.com/BastelBaus/Simple6DSpaceKnob)**
