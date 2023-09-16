@@ -18,8 +18,9 @@ This page gives an overview on different DIY and professional products on the ma
 |2013 | 6D (axsotic) | valentin heun | [link](http://valentinheun.com/portfolio/6d/) | ![6D axsotic](images/6D_axsotic.png) |  start of a startup which is no longer existing  | ? | 3D printed ? |
 
 to be added
-https://github.com/RepRapLtd/6DInput/tree/main/RepRapLtd#update-3
-	https://reprapltd.com/an-open-source-spacemouse-for-cad-part-2/
+ - https://imgur.io/r/hotas/NKKsL
+ - https://github.com/RepRapLtd/6DInput/tree/main/RepRapLtd#update-3
+	- https://reprapltd.com/an-open-source-spacemouse-for-cad-part-2/
 
 ## Full 6D Professional Products
 
