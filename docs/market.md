@@ -1,15 +1,11 @@
-# Simple6DSpaceKnob
-
-Simple DIY full 6D knob as input device (i.g. CAD, ...)
-
-- [DIY and professional market overview](market.md)
-- [Initial design concept](concept.md)
-
 
 # Market Study
-Page on [hackaday.io](https://hackaday.io/pages/1354157)
 
-Last Update Sep/2023
+This page gives an overview on different DIY and professional products on the market. Last update Sep/2023.Refer also to [hackaday.io](https://hackaday.io/pages/1354157).
+- [Full 6D DIY Projects](#full-6d-diy-projectsfull_6d_diy_projects)
+- [Full 6D Professional Products](#full-6d-professional-products)
+- [Less than 6D DIY Projects](#less-than-6d-diy-projects)
+
 
 ## Full 6D DIY Projects
 | started | Project Name	| Author | link | Picture | Status | Detection and Electronics |	Mechanics |
@@ -31,5 +27,4 @@ Last Update Sep/2023
 ## Less than 6D DIY Projects
 
 - 
-
 

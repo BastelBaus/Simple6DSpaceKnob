@@ -1,8 +1,5 @@
 # Simple6DSpaceKnob
-Simple DIY full 6D knob as input device (i.g. CAD, ...)
+Simple DIY full 6D knob as input device (e.g. for CAD). Read full documentation including a market overview on [github pages](https://bastelbaus.github.io/Simple6DSpaceKnob/). The project is in early ideation phase. Following design concept is analysed:
 
-Read full documentation on [github pages](https://bastelbaus.github.io/Simple6DSpaceKnob/).
-
-- Market study of other DIY and professional products
-- Simple 6DSpaceKnob concept
+![Design Concept](docs/images/Concept_V1.png)
 
