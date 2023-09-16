@@ -8,6 +8,7 @@ This page gives an overview on different DIY and professional products on the ma
 
 
 ## Full 6D DIY Projects
+
 | started | Project Name	| Author | link | Picture | Status | Detection and Electronics |	Mechanics |
 | --- | ------------  |  ------ | --- | --- | --- | --- | --- |
 | 2016 | Spacefox | Pepijn de Vos | [link](https://github.com/pepijndevos/spacefox) <br> [video](https://www.youtube.com/watch?v=rLTWWPftyac) | ![Spacefox V1](images/spacefox_v1.png) <br> ![Spacefox V2](images/spacefox_v2.jpg) | finished w/ video |Stewart platform made from potentiometers | 3D prints & cuts from triplex |
