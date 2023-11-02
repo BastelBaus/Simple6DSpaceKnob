@@ -1,18 +1,16 @@
-# temporary until they are managed
-Firmware
-Mechanics
-Electronics
+data/*
+data
 
-
-# old stuff
+archive/*
 archive
+
+# OpenOffice files
+*.ods
+*.odp
 
 
 # Prerequisites
 *.d
-
-
-
 
 # Compiled Object files
 *.slo

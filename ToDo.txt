@@ -1,0 +1,6 @@
+Power Mgmt
+Buttons
+
+Layout:
+- measure if USB is connected !?
+- switch Battery Knob
