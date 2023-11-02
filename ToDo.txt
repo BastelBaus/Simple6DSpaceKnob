@@ -3,4 +3,5 @@ Buttons
 
 Layout:
 - measure if USB is connected !?
-- switch Battery Knob
+- switch Battery Knob connection
+- solder protection

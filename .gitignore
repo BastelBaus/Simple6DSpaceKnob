@@ -6,6 +6,10 @@ Electronics
 
 # old stuff
 archive
+photos
+
+# Open Office
+*.odp
 
 
 # Prerequisites

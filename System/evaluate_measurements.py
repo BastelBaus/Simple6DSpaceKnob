@@ -14,7 +14,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 FILENAME = 'C:\\Users\\pagantroll\\Dokumente\\GitHub\\Simple6DSpaceKnob\\System\\data\\FullKnob_LongTerm.csv'
-FILENAME = 'C:\\Users\\pagantroll\\Dokumente\\GitHub\\Simple6DSpaceKnob\\System\\data\\FullKnob_3D.csv'
+#FILENAME = 'C:\\Users\\pagantroll\\Dokumente\\GitHub\\Simple6DSpaceKnob\\System\\data\\FullKnob_3D.csv'
 
 
 class SimpleFull6DSpaceKnob:
@@ -30,6 +30,9 @@ class SimpleFull6DSpaceKnob:
         with open(filename, newline='') as csvfile:    
             spamreader = csv.reader(csvfile, delimiter=',', quotechar='|')
             for row in spamreader:
+                #timestamp = row[0]
+                #print(">>",timestamp[3:]);
+                #return
                 result.append(row[1:-1])
         result = np.transpose(np.asfarray(result));    
         self.sensors   = [ result[ 0: 3], result[ 3: 6], result[ 6: 9]] 
@@ -259,6 +262,7 @@ if __name__ == '__main__':
     sf6d.plotCalibration(1)
     sf6d.plotCalibration(2)
     
+if 1==0:    
     ofs = [ (0,0,0), (0,0,0), (0,0,0) ]
     ofs[0] = sf6d.estimateOffset(0)
     ofs[1] = sf6d.estimateOffset(1)
