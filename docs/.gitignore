@@ -4,6 +4,8 @@
 archive
 sources
 
+.vscode
+
 # Prerequisites
 *.d
 

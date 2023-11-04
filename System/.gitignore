@@ -1,5 +1,5 @@
 data/*
-data
+!data/FullKnob_3D.csv
 
 archive/*
 archive
