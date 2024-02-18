@@ -16,7 +16,10 @@ This page gives an overview on different DIY and professional products on the ma
 | 2022 | Shamrock Sixnav	| Brian Lu <br> (GreenCap)	| [link](https://www.electromaker.io/project/view/shamrock-sixnav-low-cost-compatible-6dof-space-mouse) | ![Shamrock Sixnav](images/Sixnav.png) | HW pictures, raw data but no final results | IR LED + Phototransistor, variable thickness plastics (IR damping) | 3D printing + Springs|
 | 2022 | Space Mushroom	| Shiura | [link](https://www.instructables.com/Space-Mushroom-Full-6-DOFs-Controller-for-CAD-Appl/) <br> [video](https://www.youtube.com/watch?v=Vs6Xte4gOxk) | ![Space Muishroom](images/Space_Mushroom.png) | finished w/ video |Stewart platform made from potentiometers (3x 2D analog joysticks) | 3D printed |
 |2013 | 6D (axsotic) | valentin heun | [link](http://valentinheun.com/portfolio/6d/) | ![6D axsotic](images/6D_axsotic.png) |  start of a startup which is no longer existing  | ? | 3D printed ? |
-| 2021 | 6D input | REpRap Ltd. |  [link](https://github.com/RepRapLtd/6DInput/tree/main/RepRapLtd#update-3) | ![6D Input](images/6DInput.png) | investigation phase | Based on DIY force sensors, but also discussing 6 magnetic sensors | 3D prínted |
+| 2021 | 6D input | RepRap Ltd. |  [link](https://github.com/RepRapLtd/6DInput/tree/main/RepRapLtd#update-3) | ![6D Input](images/6DInput.png) | investigation phase | Based on DIY force sensors, but also discussing 6 magnetic sensors | 3D printed |
+| 2022 | Haptik 6DOF input device | Matthew Schubert |  [link](https://blog.ioces.com/matt/posts/haptick-part-two/) <br> [video](https://youtu.be/miJmKHkGehw) | ![6DOF Haptik Input](images/haptick-matt.jpg) | prototype build | Based on force sensors (strain gauges) and Steward platform principle  | n/a |
+
+
 
 
 ## Full 6D Professional Products
